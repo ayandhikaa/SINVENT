@@ -66,6 +66,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# SINVENT
-SINVENT atau Sistem Inventaris adalah website berbasis framework laravel untuk mengelola barang. SINVENT merupakan salah satu proyek yang dibuat di SMKN 2 Depok Sleman sebagai tugas akhir mata pelajaran kejuruan PKK.
->>>>>>> ffb45307975e60ea251e090e39a6fc7e0c0b7a59
