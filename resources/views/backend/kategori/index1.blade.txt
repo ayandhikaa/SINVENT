@@ -1,0 +1,21 @@
+<!-- {{$rsetKategori}}
+
+<?php
+// $row1 = $rsetKategori[0];
+// $row2 = $rsetKategori[1];
+
+// echo $rsetKategori[0]->deskripsi;
+
+?>
+
+
+<br/>
+<hr/>
+
+@forelse($rsetKategori as $row)
+    {{ $row->id }}
+    {{ $row->deskripsi }}
+    {{ $row->kategori }}
+</br>
+@empty
+@endforelse -->
